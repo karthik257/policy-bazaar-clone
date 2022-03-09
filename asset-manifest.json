@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/policy-bazaar-clone/static/css/main.5fcde2c6.css",
+    "main.js": "/policy-bazaar-clone/static/js/main.31eae2db.js",
+    "static/media/investment-tax-saving-1.webp": "/policy-bazaar-clone/static/media/investment-tax-saving-1.5f70ae9f9a29926c318a.webp",
+    "static/media/health-tax-saving-1.webp": "/policy-bazaar-clone/static/media/health-tax-saving-1.39f1447eb173c60ca0fc.webp",
+    "static/media/employee-insurance-plans.webp": "/policy-bazaar-clone/static/media/employee-insurance-plans.adcd28f298c2daa9f297.webp",
+    "static/media/side-image-1.png": "/policy-bazaar-clone/static/media/side-image-1.15f8301d7d66b42c7d03.png",
+    "static/media/slide-image-1.png": "/policy-bazaar-clone/static/media/slide-image-1.43ec073a3c9a5c0823b2.png",
+    "static/media/side-image-3.png": "/policy-bazaar-clone/static/media/side-image-3.7fdef8f4c177f77e6332.png",
+    "static/media/slide-image-3.png": "/policy-bazaar-clone/static/media/slide-image-3.8be5e922fb6822b9698e.png",
+    "static/media/slide-image-2.png": "/policy-bazaar-clone/static/media/slide-image-2.86cb3e76fe44073a0671.png",
+    "static/media/payment-left-sidebar-image.png": "/policy-bazaar-clone/static/media/payment-left-sidebar-image.436317fe5c08c9dc41f3.png",
+    "static/media/minislider1.webp": "/policy-bazaar-clone/static/media/minislider1.ec79350ce3ff6686a9e0.webp",
+    "static/media/minislider2.webp": "/policy-bazaar-clone/static/media/minislider2.da713cd140cfe7de7451.webp",
+    "static/media/slide-image-4.png": "/policy-bazaar-clone/static/media/slide-image-4.a7cd5f502c1f8d445d6b.png",
+    "static/media/side-image-2.png": "/policy-bazaar-clone/static/media/side-image-2.a98a7bd6fb21ee71e633.png",
+    "static/media/info.JPG": "/policy-bazaar-clone/static/media/info.53d466c85a9ceee3be17.JPG",
+    "static/media/akshay2.png": "/policy-bazaar-clone/static/media/akshay2.ce72a6ffb88f0f08fb9c.png",
+    "static/media/logo.svg": "/policy-bazaar-clone/static/media/logo.fa8995c8e561aeda2a72cfc282964311.svg",
+    "static/media/tiger.JPG": "/policy-bazaar-clone/static/media/tiger.1dcb2afdde3498943531.JPG",
+    "static/media/akshay1.png": "/policy-bazaar-clone/static/media/akshay1.8316bfd124920f1721d8.png",
+    "static/media/stead.JPG": "/policy-bazaar-clone/static/media/stead.029cfcd53a5526fcc3f7.JPG",
+    "static/media/akshay3.png": "/policy-bazaar-clone/static/media/akshay3.6b73212034d51ba020fa.png",
+    "static/media/temask.JPG": "/policy-bazaar-clone/static/media/temask.7dd0ef66da9539fc5e1b.JPG",
+    "static/media/form-image.webp": "/policy-bazaar-clone/static/media/form-image.8529a094192a5e85d9b6.webp",
+    "static/media/premji.JPG": "/policy-bazaar-clone/static/media/premji.ddbad96f38b235069d1d.JPG",
+    "static/media/minislider5.webp": "/policy-bazaar-clone/static/media/minislider5.9c2414d73d12874bf201.webp",
+    "static/media/minislider3.webp": "/policy-bazaar-clone/static/media/minislider3.fc79c4d3f2719d98c571.webp",
+    "static/media/minislider4.webp": "/policy-bazaar-clone/static/media/minislider4.fd54f9d8f35a0acce2bc.webp",
+    "static/media/minislider6.webp": "/policy-bazaar-clone/static/media/minislider6.ac45f3da0740d8dcc364.webp",
+    "static/media/minislider7.webp": "/policy-bazaar-clone/static/media/minislider7.37c742fccb8f853103ba.webp",
+    "index.html": "/policy-bazaar-clone/index.html",
+    "static/media/flag.svg": "/policy-bazaar-clone/static/media/flag.304a260ad4016f6eb3c636e32ab2a422.svg",
+    "static/media/user-icon.svg": "/policy-bazaar-clone/static/media/user-icon.e0cf0b4c432083bdde605fea5e65fbc8.svg",
+    "main.5fcde2c6.css.map": "/policy-bazaar-clone/static/css/main.5fcde2c6.css.map",
+    "main.31eae2db.js.map": "/policy-bazaar-clone/static/js/main.31eae2db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcde2c6.css",
+    "static/js/main.31eae2db.js"
+  ]
+}
